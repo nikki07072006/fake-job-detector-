@@ -25,7 +25,9 @@ python app.py
 Open: http://127.0.0.1:5000
 
 ## 📸 Demo
-(Add screenshot here)
+<img width="424" height="275" alt="image" src="https://github.com/user-attachments/assets/6fd37804-9395-4cdf-98db-2a8a27773098" /><img width="405" height="274" alt="image" src="https://github.com/user-attachments/assets/682423d4-2576-4933-bb89-485fb5a6dca1" />
+
+
 
 ## 👩‍💻 Author
 Nikhita
